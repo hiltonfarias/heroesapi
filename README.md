@@ -6,5 +6,12 @@
 
 ### 
 - Spring doc
-- DynamoDB
-- AWS CLI
+- DynamoDB (Locally in a docker container)
+
+### Project structure containing the following packages:
+
+- config
+- constant
+- controller
+- repository
+- service
